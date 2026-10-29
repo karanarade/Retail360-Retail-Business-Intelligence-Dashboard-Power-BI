@@ -1,11 +1,5 @@
 # 📊 Retail360 -- Retail Business Intelligence Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Data
-Analysis](https://img.shields.io/badge/Domain-Data%20Analytics-blue)
-![DAX](https://img.shields.io/badge/Language-DAX-orange) ![Power
-Query](https://img.shields.io/badge/ETL-Power%20Query-green)
-
 ## 📌 Project Overview
 
 **Retail360** is an interactive **Retail Business Intelligence
@@ -55,8 +49,6 @@ Average Order Value - Total Orders
 Distribution - Net Sales by Category - Top 10 Products by Net Sales -
 Net Sales & Profit by Market
 
-![Executive Overview](Screenshots/Executive_Overview.png)
-
 ------------------------------------------------------------------------
 
 ### 2. Sales Analysis
@@ -71,7 +63,7 @@ Average Order Value - Total Orders
 Net Sales - Net Sales by Segment - Monthly Order Trend - Net & COGS by
 Category
 
-![Sales Analysis](Screenshots/Sales_Analysis.png)
+
 
 ------------------------------------------------------------------------
 
@@ -87,7 +79,7 @@ Customer Retention % - Top Customer - New Customers
 Customers Trend - Customer Retention Rate Trend - Top 10 Customers by
 Net Sales - Customer Distribution by Country - Customer Count by Segment
 
-![Customer Analysis](Screenshots/Customer_Analysis.png)
+
 
 ------------------------------------------------------------------------
 
@@ -103,8 +95,6 @@ Profit Margin - Average Profit per Product - Best-Selling Product
 Trend - Net Sales by Category - Top 10 Sub-Categories by Profit vs Net
 Sales vs Cost - Top 10 Products by Quantity Sold
 
-![Product Analysis](Screenshots/Product_Analysis.png)
-
 ------------------------------------------------------------------------
 
 ### 5. Geographical Analysis
@@ -117,8 +107,6 @@ by Net Sales - Top Country by Profit - Total Profit
 
 **Key Visuals:** - Net Sales by Market - Regional Net Sales, Profit &
 Profit Margin - Top 5 Cities by Net Sales
-
-![Geographical Analysis](Screenshots/Geographical_Analysis.png)
 
 ------------------------------------------------------------------------
 
